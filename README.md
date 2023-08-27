@@ -1,2 +1,2 @@
 # thesis
-ABM code for the thesis 'Measuring Political Activity'
+ABM codes for the thesis 'Measuring Political Activity'
